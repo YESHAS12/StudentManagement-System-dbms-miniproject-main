@@ -1,0 +1,8 @@
+pip install flask
+ pip install Flask-SQLAlchemy
+ pip install Flask-Mail
+ pip install mysqlclient
+ pip install Flask-Login
+cd "C:\Users\jyesh\Desktop\student database miniproject\StudentManagement-System-dbms-miniproject-main"
+cd "student management"
+python main.py
